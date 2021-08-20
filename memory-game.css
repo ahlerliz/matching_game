@@ -1,0 +1,37 @@
+/* you can add to or change this. */
+
+#game div {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+  display: inline-block;
+}
+
+.purple {
+  color: rgb(58, 11, 58);
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.blue {
+  color: rgb(8, 8, 58);
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.red {
+  font-family: Arial, Helvetica, sans-serif;
+  color:rgb(70, 9, 9);
+  text-align: center;
+}
+.green {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(16, 71, 16);
+  text-align: center;
+}
+
+.orange {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(207, 100, 0);
+  text-align: center;
+}
+
